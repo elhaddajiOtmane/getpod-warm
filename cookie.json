@@ -1,0 +1,28 @@
+[
+    {
+        "domain": ".gitpod.io",
+        "expirationDate": 1722087602.774201,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "_gitpod_io_ws_ca9af0e0-5331-488f-b4e0-f9db2d5f900d_owner_",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "t-c_KXpgOTM7rEkvGCwmP4pJn2bbOBM9"
+    },
+    {
+        "domain": ".gitpod.io",
+        "expirationDate": 1722083300.173521,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "_gitpod_io_ws_5c2500a8-bbab-4d9e-8504-39143ff78f01_owner_",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "VxAzQZ.3OBP870zxN96dGcuf4z7SV2ku"
+    }
+]
